@@ -10,7 +10,7 @@
 
 - 🎓 Computer Science Engineering Graduate from JCER Belagavi
 - 🌱 Currently learning Spring Boot, Microservices, and Cloud Technologies
-- 💻 Interested in Full Stack Development, Java Development, and Data Analytics
+- 💻 Interested in Full Stack Development, Java Development, and DeveOps .
 - 🔭 Working on real-world Java and Web Development projects
 - 📊 Skilled in Power BI, SQL, Python, and Data Visualization
 - ⚡ Strong passion for problem-solving and continuous learning
