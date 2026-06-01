@@ -2,7 +2,7 @@
 
 ### Aspiring Software Engineer | Java Full Stack Developer | Data Analyst
 
-"Passionate Computer Science Engineer with a strong foundation in software development, algorithms, and problem-solving. Eager to leverage my coding skills and internship experience to contribute to innovative projects and grow within a dynamic tech team."
+Passionate Computer Science Engineer with a strong foundation in software development, algorithms, and problem-solving. Eager to leverage my coding skills and internship experience to contribute to innovative projects and grow within a dynamic tech team.
 
 ---
 
